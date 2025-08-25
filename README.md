@@ -1,12 +1,20 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+TheZenithCoder;Love+GTA+Modding;Full+Stack+" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TheZenithCoder;Love+GTA+Modding;Full+Stack+Developer" alt="Typing SVG" />
+  <a href="https://github.com/TheZenithCoder/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=TheZenithCoder6&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/TheZenithCode/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20and%20BOT%20developer;Experienced%20in/GTA%20Modding;From%20%20GTA%20Streets%20to%20Full%20Stack%20Streets;Always%20learning%20new%20things;On%20a%20MISSON...&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
+
+
 
 <p align="center">
   Trust me! <strong>"Har commit, ek nayi kahani" 😎</strong>
