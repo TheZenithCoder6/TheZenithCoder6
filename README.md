@@ -35,6 +35,10 @@
 <a href="https://gw121.blogspot.com" target="_blank"><img alt="replit" src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
 
+## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
+[![Vercel Status](https://vercel.com/api/status-badge?project=YOUR_PROJECT_NAME)](https://vercel.com/YOUR_USERNAME/YOUR_PROJECT_NAME)
+
+
 ## Profile views counter
 ![](https://komarev.com/ghpvc/?username=TheZenithCode6)
 
