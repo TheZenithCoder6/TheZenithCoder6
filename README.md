@@ -36,7 +36,8 @@
 </p>
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{TheZenithCoder6}/count.svg)
+![](https://komarev.com/ghpvc/?username=TheZenithCode6)
+
 
 ## YouTube 
 <a href="https://www.youtube.com/@amlitg3484" target="_blank" rel="noopener noreferrer">
