@@ -6,9 +6,7 @@
 
 
 <p align="center">
-   <a href="https://www.gtainside.com/en/user/YourUsername/">
-    <img src="https://img.shields.io/badge/GTAInside-Mods-blue?style=for-the-badge&logo=game-controller&logoColor=white" alt="GTAInside">
-  </a>
+  
   <a href="https://github.com/TheZenithCode/readme-typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20and%20BOT%20developer;Experienced%20in/GTA%20Modding;From%20%20GTA%20Streets%20to%20Full%20Stack%20Streets;Always%20learning%20new%20things;On%20a%20MISSON...&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
@@ -26,5 +24,9 @@
 # Community ❤️
 
 <p align="center">
-<a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://www.gtainside.com/en/user/YourUsername/">
+    <img src="https://img.shields.io/badge/GTAInside-Mods-green?style=for-the-badge&logo=game-controller&logoColor=white" alt="GTAInside">
+  </a>
+  &nbsp;&nbsp;
+<a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p
