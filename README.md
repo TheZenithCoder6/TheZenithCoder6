@@ -32,13 +32,13 @@
 
 ## Blogger &#x1F4BB;
 <p align="centetr">
-<a href="https://gw121.blogspot.com/"><img alt="replit" src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://gw121.blogspot.com" target="_blank"><img alt="replit" src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{TheZenithCoder6}/count.svg)
 
 ## YouTube 
-<p target="_blank">
-<a href="https://www.youtube.com/@amlitg3484"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
+<p>
+<a href="https://www.youtube.com/@amlitg3484" target="_blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 </p>
