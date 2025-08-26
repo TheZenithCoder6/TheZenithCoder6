@@ -19,3 +19,9 @@
 <p align="center">
   Trust me! <strong>"Har commit, ek nayi kahani" 😎</strong>
 </p>
+
+# Community ❤️
+
+<p align="center">
+<a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p
