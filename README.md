@@ -22,11 +22,9 @@
 </p>
 
 # Community ❤️
-
+ [![GTAInside](https://img.shields.io/badge/GTAInside-Mods-blue?style=for-the-badge&logo=game-controller&logoColor=white)](https://www.gtainside.com/en/user/YourUsername/)
 <p align="center">
-   <a href="https://www.gtainside.com/en/user/YourUsername/">
-    <img src="https://img.shields.io/badge/GTAInside-Mods-green?style=for-the-badge&logo=game-controller&logoColor=white" alt="GTAInside">
-  </a>
-  &nbsp;&nbsp;
-<a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+
+  <a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p
