@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/@amlitg3484"><img alt="replit" src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p
 
-# Blogger &#x1F4BB;
+<b>Blogger</b> &#x1F4BB;
 <p align="centetr">
 <a href="gw121.blogspot.com"><img alt="replit" src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
