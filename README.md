@@ -39,4 +39,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{TheZenithCoder6}/count.svg)
 
 ## YouTube 
+<p target="_blank">
 <a href="https://www.youtube.com/@amlitg3484"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
+</p>
