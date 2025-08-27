@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/TheZenithCoder/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=TheZenithCoder6&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=TheZenithCoder6&font=Fira%20SemiBold&center=true&width=480&height=45&background_color=black&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 
