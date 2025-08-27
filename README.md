@@ -36,8 +36,9 @@
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Vercel Status](https://vercel.com/api/status-badge?project=YOUR_PROJECT_NAME)](https://vercel.com/YOUR_USERNAME/YOUR_PROJECT_NAME)
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=TheZenithCoder6&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TheZenithCoder6/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheZenithCoder6&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZenithCoder6&layout=compact&theme=tokyonight" align="center">
 
 ## Profile views counter
 ![](https://komarev.com/ghpvc/?username=TheZenithCode6)
